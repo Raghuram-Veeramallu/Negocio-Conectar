@@ -1,2 +1,5 @@
-# Negocio-Conectar
-Business Portal Negocio Conectar Android Application
+# Negocio Conectar
+
+### Android Application
+
+Business Portal to match peoples needs
